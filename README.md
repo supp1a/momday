@@ -1,2 +1,1 @@
-# momday
-day mom
+# mama
